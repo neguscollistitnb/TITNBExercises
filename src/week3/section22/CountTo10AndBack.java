@@ -1,0 +1,13 @@
+package week3.section22;
+
+public class CountTo10AndBack {
+    public static void main(String[] args) {
+        for(int i = 0; i <= 5; i++){
+            System.out.println(i);
+        }
+
+        for(int i = 4; i >= 0; i--){
+            System.out.println(i);
+        }
+    }
+}

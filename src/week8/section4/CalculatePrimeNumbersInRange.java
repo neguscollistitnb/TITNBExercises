@@ -3,6 +3,8 @@ package week8.section4;
 public class CalculatePrimeNumbersInRange {
 
     public static void main(String[] args) {
+
+
         System.out.println(calculatePrimeNumbersInRange(1,1000));
     }
 
@@ -34,4 +36,5 @@ public class CalculatePrimeNumbersInRange {
 
         return sum;
     }
+
 }

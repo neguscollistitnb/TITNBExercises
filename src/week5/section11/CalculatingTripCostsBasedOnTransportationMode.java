@@ -6,13 +6,6 @@ public class CalculatingTripCostsBasedOnTransportationMode {
 
     public static void main(String[] args) {
 
-        /*
-        - drive or fly.  - if else statement
-        - get the distance
-        - calculate the cost
-        - if flying and first class extra 50
-         */
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the distance of the trip in miles:");
         int miles = scanner.nextInt();
